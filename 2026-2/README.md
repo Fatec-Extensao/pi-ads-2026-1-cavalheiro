@@ -17,14 +17,14 @@
 
 ## 👥 Integrantes do Grupo
 
-| Nome do aluno      | GitHub / Perfil                                                      |
-| :----------------- | :------------------------------------------------------------------- |
-| Yara               | [@yaratorres99](https://github.com/yaratorres99)                     |
-| Giulia             | [@giuliagentil](https://github.com/giuliagentil)                     |
-| Geovanna           | [@geovannaciriaco17-cell](https://github.com/geovannaciriaco17-cell) |
-| Poliana            | [@eupoliana](https://github.com/eupoliana)                           |
-| Isabela            | [@isabelaerminia](https://github.com/isabelaerminia)                 |
-| Rafaela Cavalheiro | [@c-rafaela](https://github.com/c-rafaela)                           |
+| Nome da integrante | GitHub / Perfil                                                      |
+| :----------------- | :------------------------------------------------------------------- | --- |
+| Yara Torres        | [@yaratorres99](https://github.com/yaratorres99)                     |
+| Giulia Gentil      | [@giuliagentil](https://github.com/giuliagentil)                     |
+| Geovanna Ciriaco   | [@geovannaciriaco17-cell](https://github.com/geovannaciriaco17-cell) |
+| Poliana Silva      | [@eupoliana](https://github.com/eupoliana)                           |
+| Isabela Ermínia    | [@isabelaerminia](https://github.com/isabelaerminia)                 |
+| Rafaela Cavalheiro | [@c-rafaela](https://github.com/c-rafaela)                           |     |
 
 ---
 
