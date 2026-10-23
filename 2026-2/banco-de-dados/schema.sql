@@ -64,12 +64,9 @@ CREATE TABLE SUBMISSAO (
 CREATE TABLE RESPOSTA (
     id_resposta NUMBER PRIMARY KEY,
     id_submissao NUMBER NOT NULL,
-    id_pergunta NUMBER NOT NULL,
     id_alternativa NUMBER NOT NULL,
     FOREIGN KEY (id_submissao)
         REFERENCES SUBMISSAO(id_submissao),
-    FOREIGN KEY (id_pergunta)
-        REFERENCES PERGUNTA(id_pergunta),
     FOREIGN KEY (id_alternativa)
         REFERENCES ALTERNATIVA(id_alternativa)
 );
